@@ -1,4 +1,3 @@
-version: '3'
 services:
   amiyabot:
     image: ghcr.io/kirsysuv/amiyabotdocker:latest
